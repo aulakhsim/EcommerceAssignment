@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33818" started-at="2020-03-03T05:50:22Z" finished-at="2020-03-03T05:50:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33818" started-at="2020-03-03T05:50:22Z" finished-at="2020-03-03T05:50:56Z">
+      <class name="com.ECommerceAssignment.test.BuyProduct">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.ECommerceAssignment.test.BuyProduct@59f99ea]" name="setup" is-config="true" duration-ms="10094" started-at="2020-03-03T05:50:22Z" finished-at="2020-03-03T05:50:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="BuyShirt()[pri:0, instance:com.ECommerceAssignment.test.BuyProduct@59f99ea]" name="BuyShirt" duration-ms="23716" started-at="2020-03-03T05:50:33Z" finished-at="2020-03-03T05:50:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BuyShirt -->
+      </class> <!-- com.ECommerceAssignment.test.BuyProduct -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
